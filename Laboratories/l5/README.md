@@ -104,7 +104,7 @@ The idea is to provide traits that can be used to decorate strings that, when pr
 
   /* spodziewany wynik
 
-<I><H2>Paragraph heading</H2></I>
+<\I><\H2>Paragraph heading</\H2></\I>
 
 Abra            ka            dabra
 
